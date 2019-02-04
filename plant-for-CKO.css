@@ -1,0 +1,167 @@
+body {
+  background-color: #68A894;
+}
+.bg {
+  margin: auto;
+  position: absolute;
+  background-color: #CC7C16;
+  border-radius: 50%;
+  top: 200px;
+  left: 492px;
+  width: 400px;
+  height: 400px;
+  margin-bottom: 400px;
+}
+.leaf1 {
+  margin: auto;
+  position: absolute;
+  background-color: #385821;
+  top: 292px;
+  left: 12px;
+  right: 12px;
+  border-radius: 0 100%;
+  width: 82px;
+  height: 56px;
+  transform: rotate(20deg);
+  z-index: 2;
+}
+.hlight1 {
+  margin: auto;
+  position: absolute;
+  background-color: #A3A772;
+  top: 292px;
+  left: 12px;
+  right: 12px;
+  border-radius: 0 100%;
+  width: 18px;
+  height: 62px;
+  transform: rotate(-20deg);
+  z-index: 3;
+}
+.leaf2 {
+  margin: auto;
+  position: absolute;
+  background-color: #294018;
+  top: 383px;
+  left: 22px;
+  right: 12px;
+  border-radius: 0 100%;
+  width: 92px;
+  height: 56px;
+  transform: rotate(15deg);
+  z-index: 0;
+}
+.leaf3 {
+  margin: auto;
+  position: absolute;
+  background-color: #385821;
+  top: 288px;
+  left: 12px;
+  right: 150px;
+  border-radius: 0 100%;
+  width: 85px;
+  height: 62px;
+  transform: rotate(280deg);
+  z-index: 2;
+}
+.hlight3 {
+  margin: auto;
+  position: absolute;
+  background-color: #A3A772;
+  top: 288px;
+  left: 12px;
+  right: 155px;
+  border-radius: 96% 0%;
+  width: 12px;
+  height: 58px;
+  transform: rotate(212deg);
+  z-index: 5;
+}
+.leaf4 {
+  margin: auto;
+  position: absolute;
+  background-color: #385821;
+  top: 348px;
+  left: 12px;
+  right: 163px;
+  border-radius: 0 100%;
+  width: 92px;
+  height: 69px;
+  transform: rotate(285deg);
+  z-index: 3;
+}
+.hlight4 {
+  margin: auto;
+  position: absolute;
+  background-color: #A3A772;
+  top: 340px;
+  left: 12px;
+  right: 160px;
+  border-radius: 100% 0%;
+  width: 20px;
+  height: 68px;
+  transform: rotate(218deg);
+  z-index: 3;
+}
+.shadow4 {
+  margin: auto;
+  position: absolute;
+  background-color: #294018;
+  top: 352px;
+  left: 12px;
+  right: 165px;
+  border-radius: 0 100%;
+  width: 92px;
+  height: 69px;
+  transform: rotate(285deg);
+  z-index: 2;
+}
+.leaf5 {
+  margin: auto;
+  position: absolute;
+  background-color: #294018;
+  top: 330px;
+  left: 12px;
+  right: 105px;
+  border-radius: 0 100%;
+  width: 85px;
+  height: 62px;
+  transform: rotate(248deg);
+  z-index: 0;
+}
+.stalk {
+  margin: auto;
+  position: absolute;
+  top: 280px;
+  left: 12px;
+  right: 70px;
+  height: 250px;
+  width: 10px;
+  background-color: #957254;
+  border-radius: 10px;
+  z-index: 1;
+}
+.pot-rim {
+  margin: auto;
+  position: absolute;
+  top: 500px;
+  left: 12px;
+  right: 70px;
+  height: 20px;
+  width: 88px;
+  background-color: #FF4602;
+  border-radius: 2px;
+  z-index: 5;
+}
+.pot {
+  margin: auto;
+  position: absolute;
+  top: 500px;
+  left: 12px;
+  right: 70px;
+  height: 65px;
+  width: 78px;
+  background-color: #FF4602;
+  border-radius: 10px;
+  z-index: 5;
+}
