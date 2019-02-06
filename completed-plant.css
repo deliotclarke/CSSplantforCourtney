@@ -4,7 +4,9 @@ body {
 .bg {
   margin: auto;
   position: absolute;
-  background-color: #CFAC64;
+/*   background-color: #CFAC64;
+  option for solid background*/
+  background-image: radial-gradient(circle, rgba(189, 157, 91, .6), rgba(189, 157, 91, 1));
   border-radius: 50%;
   border: solid 1px #231F20;
   top: 210px;
